@@ -139,6 +139,9 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
     <img src="https://skillicons.dev/icons?i=js" width="70" height="70" />
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
     <img src="https://skillicons.dev/icons?i=c" width="70" height="70" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -147,7 +150,7 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
   </a>
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile & 🎮 Game Development
 
 <p align="center">
   <a href="https://kotlinlang.org" title="Kotlin">
@@ -155,6 +158,15 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.android.com/studio" title="Android Studio">
     <img src="https://skillicons.dev/icons?i=androidstudio" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://flutter.dev" title="Flutter">
+    <img src="https://skillicons.dev/icons?i=flutter" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://unity.com" title="Unity">
+    <img src="https://skillicons.dev/icons?i=unity" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C#">
+    <img src="https://skillicons.dev/icons?i=cs" width="70" height="70" />
   </a>
 </p>
 
@@ -172,6 +184,23 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" />
+  </a>
+</p>
+
+### ✨ Animasi & Creative Web
+
+<p align="center">
+  <a href="https://gsap.com" title="GSAP - GreenSock Animation Platform">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="50" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.framer.com/motion/" title="Framer Motion">
+    <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="50" />
+  </a>&nbsp;&nbsp;
+  <a href="https://threejs.org" title="Three.js">
+    <img src="https://skillicons.dev/icons?i=threejs" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" title="WebGL">
+    <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" height="50" />
   </a>
 </p>
 
