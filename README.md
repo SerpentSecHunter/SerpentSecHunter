@@ -132,6 +132,18 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" title="Python">
     <img src="https://skillicons.dev/icons?i=python" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" title="Java">
+    <img src="https://skillicons.dev/icons?i=java" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+    <img src="https://skillicons.dev/icons?i=c" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://isocpp.org" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" width="70" height="70" />
   </a>
 </p>
 
