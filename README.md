@@ -1,19 +1,35 @@
+<!-- HEADER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Ade%20Pratama&fontSize=50&fontColor=e2b96f&fontAlignY=38&desc=Web%20%7C%20Android%20%7C%20Game%20Developer&descAlignY=60&descSize=18&descColor=a8b2d8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ade%20Pratama&fontSize=55&fontColor=f5d77e&fontAlignY=40&desc=🌐%20Web%20%20%7C%20%20📱%20Android%20%20%7C%20%20🎮%20Game%20Developer&descAlignY=62&descSize=17&descColor=b8c8ff&animation=fadeIn" />
 </p>
 
+<!-- TYPING ANIMASI -->
 <p align="center">
-  <a href="https://github.com/SerpentSecHunter">
-    <img src="https://img.shields.io/badge/GitHub-SerpentSecHunter-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:luarnegriakun702@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-luarnegriakun702%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5D77E&center=true&vCenter=true&width=500&lines=Halo%2C+Saya+Ade+Pratama+%F0%9F%91%8B;Pemuda+Teknologi+dari+Sumatra+Utara;Web+%7C+Android+%7C+Game+Developer;Selalu+Belajar%2C+Terus+Berkarya+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <br/>
 
+<!-- BADGE SOSIAL -->
+<p align="center">
+  <a href="https://github.com/SerpentSecHunter">
+    <img src="https://img.shields.io/badge/GitHub-SerpentSecHunter-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:luarnegriakun702@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-luarnegriakun702%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SerpentSecHunter&label=Pengunjung+Profil&color=f5d77e&style=flat-square" />
+</p>
+
+---
+
 ## 👋 Selamat Datang di Profil Saya
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
 Halo! Nama saya **Ade Pratama**, seorang pemuda berusia **19 tahun** yang berasal dari **Sumatra Utara, Indonesia**.
 
@@ -21,95 +37,153 @@ Saya merupakan lulusan **SMK Negeri 1 Pulau Rakyat** jurusan Teknik Komputer & J
 
 Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju impian yang lebih besar. 🚀
 
-<br/>
+- 🔭 &nbsp;Sedang membangun portofolio **Web & Android Development**
+- 🌱 &nbsp;Mendalami **Laravel** dan **Kotlin**
+- 💬 &nbsp;Tanya saya soal **HTML, CSS, PHP, dan Python**
+- 📫 &nbsp;Hubungi: **luarnegriakun702@gmail.com**
+- 🏫 &nbsp;Almamater: [SMK Negeri 1 Pulau Rakyat](https://www.smkn1pulaurakyat.sch.id/)
+
+<br clear="right"/>
+
+---
 
 ## 🎯 Fokus & Tujuan
 
 ```
-🌐 Web Development      →  Membangun antarmuka web yang bersih dan fungsional
-📱 Android Development  →  Mengembangkan aplikasi mobile yang berguna
-🎮 Game Development     →  Mewujudkan ide-ide kreatif dalam bentuk permainan
+🌐  Web Development      →  Membangun antarmuka web yang bersih dan fungsional
+📱  Android Development  →  Mengembangkan aplikasi mobile yang bermanfaat
+🎮  Game Development     →  Mewujudkan ide-ide kreatif dalam bentuk permainan
 ```
 
-<br/>
+---
 
 ## 🌱 Yang Sedang Saya Pelajari
 
-Saya saat ini sedang mendalami beberapa teknologi berikut untuk memperkuat fondasi saya:
+| Teknologi | Keterangan |
+|-----------|------------|
+| 🔴 **Laravel** | Framework PHP untuk aplikasi web yang terstruktur |
+| 🟣 **Kotlin** | Bahasa modern untuk pengembangan Android |
 
-- 🔷 **Laravel** — Framework PHP untuk membangun aplikasi web yang lebih terstruktur
-- 🔶 **Kotlin** — Bahasa pemrograman modern untuk pengembangan Android
-
-<br/>
+---
 
 ## 🛠️ Teknologi yang Saya Gunakan
 
 <br/>
 
-**🎨 Frontend & Styling**
+### 🎨 Frontend & Styling
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://getbootstrap.com" title="Bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="70" height="70" />
+  </a>
 </p>
 
-**⚙️ Backend & Bahasa Pemrograman**
+### ⚙️ Backend & Bahasa Pemrograman
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+  <a href="https://www.php.net" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://laravel.com" title="Laravel">
+    <img src="https://skillicons.dev/icons?i=laravel" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" width="70" height="70" />
+  </a>
 </p>
 
-**📱 Mobile Development**
+### 📱 Mobile Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<p align="center">
+  <a href="https://kotlinlang.org" title="Kotlin">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.android.com/studio" title="Android Studio">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="70" height="70" />
+  </a>
 </p>
 
-**🗄️ Database & Tools**
+### 🗄️ Database & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<p align="center">
+  <a href="https://www.mysql.com" title="MySQL">
+    <img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="70" height="70" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" />
+  </a>
 </p>
 
-<br/>
+---
 
 ## 📊 Statistik GitHub Saya
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SerpentSecHunter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerpentSecHunter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SerpentSecHunter&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SerpentSecHunter&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 <br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SerpentSecHunter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f5d77e&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="190" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerpentSecHunter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5d77e&text_color=c9d1d9" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SerpentSecHunter&theme=tokyonight&hide_border=true&background=0d1117&ring=f5d77e&fire=ff6b6b&currStreakLabel=f5d77e&sideLabels=a78bfa&dates=8b949e" height="190" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SerpentSecHunter&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=f5d77e&line=a78bfa&point=f5d77e" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SerpentSecHunter&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+</p>
+
+---
 
 ## 💬 Ayo Terhubung!
 
-Apabila Anda ingin berdiskusi, berkolaborasi, atau sekadar menyapa — saya dengan senang hati menerima pesan dari siapa pun. Mari kita belajar dan bertumbuh bersama! 🤝
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45" />
+</p>
 
-> *"Setiap ahli pernah menjadi seorang pemula. Teruslah belajar, jangan berhenti berkarya."*
+<p align="center">
+  Apabila Anda ingin berdiskusi, berkolaborasi, atau sekadar menyapa —<br/>
+  saya dengan senang hati menerima pesan dari siapa pun.<br/>
+  Mari kita belajar dan bertumbuh bersama! 🤝
+</p>
 
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" />
+  <a href="mailto:luarnegriakun702@gmail.com">
+    <img src="https://img.shields.io/badge/✉️%20Kirim%20Email%20Sekarang-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SerpentSecHunter&label=Pengunjung%20Profil&color=e2b96f&style=flat-square" />
+  <em>"Setiap ahli pernah menjadi seorang pemula. Teruslah belajar, jangan berhenti berkarya."</em>
+</p>
+
+---
+
+<!-- FOOTER ANIMASI -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" />
 </p>
