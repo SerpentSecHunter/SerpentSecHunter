@@ -49,20 +49,54 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
 
 ## 🎯 Fokus & Tujuan
 
-```
-🌐  Web Development      →  Membangun antarmuka web yang bersih dan fungsional
-📱  Android Development  →  Mengembangkan aplikasi mobile yang bermanfaat
-🎮  Game Development     →  Mewujudkan ide-ide kreatif dalam bentuk permainan
-```
+<br/>
+
+<div align="center">
+
+| | Bidang | Deskripsi |
+|:---:|:---|:---|
+| 🌐 | **Web Development** | Membangun antarmuka web yang bersih, modern, dan fungsional untuk semua kalangan |
+| 📱 | **Android Development** | Mengembangkan aplikasi mobile yang ringan, intuitif, dan bermanfaat bagi pengguna |
+| 🎮 | **Game Development** | Mewujudkan ide-ide kreatif menjadi pengalaman bermain yang seru dan berkesan |
+
+</div>
+
+<br/>
+
+> 💡 *Setiap bidang yang saya tekuni adalah bagian dari perjalanan panjang menuju versi terbaik diri saya sebagai developer.*
 
 ---
 
 ## 🌱 Yang Sedang Saya Pelajari
 
-| Teknologi | Keterangan |
-|-----------|------------|
-| 🔴 **Laravel** | Framework PHP untuk aplikasi web yang terstruktur |
-| 🟣 **Kotlin** | Bahasa modern untuk pengembangan Android |
+<br/>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="320">
+      <img src="https://skillicons.dev/icons?i=laravel" width="80" height="80" /><br/>
+      <br/>
+      <strong>🔴 Laravel</strong><br/>
+      <sub>Framework PHP yang powerful dan elegan</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Sedang%20Dipelajari-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </td>
+    <td align="center" width="320">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="80" height="80" /><br/>
+      <br/>
+      <strong>🟣 Kotlin</strong><br/>
+      <sub>Bahasa modern untuk pengembangan Android</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Status-Sedang%20Dipelajari-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+> 🚀 *Semakin dalam saya belajar, semakin saya menyadari betapa luasnya dunia teknologi yang menanti untuk dijelajahi.*
 
 ---
 
@@ -127,30 +161,6 @@ Saya percaya bahwa setiap baris kode yang ditulis adalah langkah kecil menuju im
   <a href="https://code.visualstudio.com" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" width="70" height="70" />
   </a>
-</p>
-
----
-
-## 📊 Statistik GitHub Saya
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SerpentSecHunter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f5d77e&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="190" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerpentSecHunter&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f5d77e&text_color=c9d1d9" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SerpentSecHunter&theme=tokyonight&hide_border=true&background=0d1117&ring=f5d77e&fire=ff6b6b&currStreakLabel=f5d77e&sideLabels=a78bfa&dates=8b949e" height="190" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SerpentSecHunter&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=f5d77e&line=a78bfa&point=f5d77e" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SerpentSecHunter&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </p>
 
 ---
